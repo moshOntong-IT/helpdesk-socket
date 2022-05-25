@@ -8,6 +8,7 @@
     "dev": "nodemon --exec babel-node index.js"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "express": "^4.18.1",
     "socket.io": "^4.5.1"
   },
